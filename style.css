@@ -1,0 +1,17 @@
+.button {
+    font-size: 20px;
+    color: #CCCCCC;
+    padding: 1vh 3vw;
+}
+
+.button a:visited {
+    color: #CCCCCC;
+}
+
+.button-inactive {
+    background-color: #990000;
+}
+
+.button-active {
+    background-color: #000099;
+}
